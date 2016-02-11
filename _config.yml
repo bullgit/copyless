@@ -1,0 +1,13 @@
+lang: en
+author:
+  name: bullgit
+  url: https://bullg.it/
+  twitter: '@bullgit'
+title: copy.less
+description: Why should people copy and steal content from you site? Prevent copying with copy.less*! (*actually written in Sass)
+url: https://bullg.it
+baseurl: /copyless
+color: '#2196F3'
+css: /style.css
+sass:
+  style: compressed

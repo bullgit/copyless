@@ -6,14 +6,6 @@
   pointer-events: none !important;
 }
 
-// Extend as you need and want!
-
-// only elements with the class no-copy...
 .no-copy {
-  @extend %no-copy;
-}
-
-// ... or ALL elements
-html {
   @extend %no-copy;
 }
